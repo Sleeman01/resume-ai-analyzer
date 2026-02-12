@@ -153,20 +153,6 @@ curl -X POST http://localhost:3001/api/analyze \
 <img width="1913" height="862" alt="resume_analyzer" src="https://github.com/user-attachments/assets/efa3c32d-c92d-4678-9620-e3bb5bf26fb7" />
 
 
-
-## Deployment
-
-### Backend (Render)
-1. Create a new Web Service on [Render](https://render.com)
-2. Connect your GitHub repo
-3. Set root directory to `backend`
-4. Add environment variable: `OPENAI_API_KEY`
-
-### Frontend (Vercel)
-1. Import project on [Vercel](https://vercel.com)
-2. Set root directory to `frontend`
-3. Add environment variable: `VITE_API_URL` = your backend URL
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
