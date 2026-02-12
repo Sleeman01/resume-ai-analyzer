@@ -151,11 +151,8 @@ curl -X POST http://localhost:3001/api/analyze \
 ## Screenshots
 
 <img width="1913" height="862" alt="resume_analyzer" src="https://github.com/user-attachments/assets/efa3c32d-c92d-4678-9620-e3bb5bf26fb7" />
-<img width="1913" height="862" alt="resume_analyzer" src="https://github.com/user-attachments/assets/efa3c32d-c92d-4678-9620-e3bb5bf26fb7" />
 
 
-### Analysis Results
-Comprehensive feedback with visual score indicators and actionable insights.
 
 ## Deployment
 
